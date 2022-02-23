@@ -1,0 +1,14 @@
+{
+    "stage": {
+        "host": "",
+        "database": "db_converter",
+        "user": "converter",
+        "password": "user123"
+    },
+    "dev": {
+    	"host": "localhost",
+        "database": "sql_trainer",
+        "user": "user",
+        "password": "user123"
+    }
+}
